@@ -1,0 +1,12 @@
+
+tardis-agent\.log
+
+tardis-agent\.pid
+
+bin/quasar/
+bin/start.sh
+bin/stop.sh
+
+bin/tardis-start\.sh
+
+bin/tardis-stop\.sh
